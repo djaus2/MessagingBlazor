@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30803.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwilioConsole", "Twillio\TwilioConsole.csproj", "{C01A991B-B87F-4A22-81D0-D7A7374062EF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Email", "Email\Email.csproj", "{919EE745-99CA-4624-BE5B-38AE56497F65}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{52873BDC-A3A4-47D0-99B3-AFED37AA94C7}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorTwilioSvr", "BlazorTwilioSvr\BlazorTwilioSvr.csproj", "{2960C6AC-1424-4AA0-B892-405BB5AE3E9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C01A991B-B87F-4A22-81D0-D7A7374062EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C01A991B-B87F-4A22-81D0-D7A7374062EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C01A991B-B87F-4A22-81D0-D7A7374062EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C01A991B-B87F-4A22-81D0-D7A7374062EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{919EE745-99CA-4624-BE5B-38AE56497F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{919EE745-99CA-4624-BE5B-38AE56497F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{919EE745-99CA-4624-BE5B-38AE56497F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{919EE745-99CA-4624-BE5B-38AE56497F65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2960C6AC-1424-4AA0-B892-405BB5AE3E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2960C6AC-1424-4AA0-B892-405BB5AE3E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2960C6AC-1424-4AA0-B892-405BB5AE3E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2960C6AC-1424-4AA0-B892-405BB5AE3E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0FCC977-ECA2-4EB6-9EC8-3A98B0DE0957}
+	EndGlobalSection
+EndGlobal
