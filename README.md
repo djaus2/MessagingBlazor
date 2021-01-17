@@ -3,6 +3,8 @@ Sample .NET Console apps for Sending Email and SMS messages
 
 Simple .NET 5 Console app to send a simple text message via emal or SMS. No returns monitored
 
+**Nb: 18-01-21 6:50PM (AEST) Have done a clean out of repository.**
+
 ## Email
 Requires an Office365 email account
 
